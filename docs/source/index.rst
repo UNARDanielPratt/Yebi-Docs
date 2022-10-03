@@ -18,6 +18,7 @@ Firestore Structure:
    contextitem
    textitem
    equationitem
+   tableitem
 
 Enums:
 ------
