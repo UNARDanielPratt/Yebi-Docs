@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Yebi'
+copyright = '2022, UNAR Labs, LLC'
+author = 'Daniel'
 
 release = '0.1'
 version = '0.1.0'
