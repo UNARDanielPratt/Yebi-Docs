@@ -2,7 +2,7 @@ Section
 =======
 
 =======
-Section
+Summary
 =======
 
 Sections represent one of the four different possible SAT Practice sections.
@@ -22,7 +22,7 @@ Properties
 The unique identifier for the **Section** item.
 
 **groupOrder**: [:doc:`key`]
-  An array of :doc:'key' values that track the order of **:doc:`groupItem`**.
+  An array of :doc:'key' values that track the order of **:doc:`groupitem`**.
 
-**sectionType**: :doc:`sectionType`
+**sectionType**: :doc:`sectiontype`
   The type of section represetned (e.g. Writing).

@@ -9,14 +9,15 @@ Firestore Structure:
 --------------------
 
 .. toctree::
-
    document
    section
-   groupItem
-   blockItem
+   groupitem
+   block
+   blockitem
 
 Enums:
 ------
-
-.. toctree:: 
-   sectionType
+.. toctree::
+   sectiontype
+   blocktype
+   itemtype

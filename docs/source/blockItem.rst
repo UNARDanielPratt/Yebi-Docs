@@ -1,22 +1,25 @@
 BlockItem
-=========
+=======
 
 =======
 Summary
 =======
 
-A **BlockItem** is responsible for keeping track of
-all the content that is on a single screen of content.
+BlockItems point to the actual content that is contained within a block.
+
 
 Declaration
 -----------
 
 .. code-block:: swift
 
-   struct BlockItem
+   struct Summary
 
 Properties
 ----------------
 
-**id**: :doc:`key`
-  The unique identifier for the **GroupItem** item.
+**itemType**: :doc:`itemtype`
+The type of item that this *BlockItem* is pointing to.
+
+**itemId**: :doc:`key`
+  The UID of the item being pointed at.
