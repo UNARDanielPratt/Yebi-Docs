@@ -24,8 +24,8 @@ Properties
 **id**: *String*
 The unique identifier for the **Summary** item.
 
-**groupOrder**: *[:doc:'key']*
+**groupOrder**: *[:doc:`key``]*
   An array of :doc:'key' values that track the order of :doc:'groupItem's.
 
-**sectionType**: *:doc:'sectionType'*
+**sectionType**: *:doc:`sectionType`*
   The type of section represetned (e.g. Writing).
