@@ -8,13 +8,6 @@ Summary
 A **Block** is responsible for keeping track of
 all the content that is on a single screen of content.
 
-Declaration
------------
-
-.. code-block:: swift
-
-   struct BlockItem
-
 Properties
 ----------------
 

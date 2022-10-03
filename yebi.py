@@ -2,7 +2,7 @@
 Yebi - An accessible SAT practice test.
 """
 
-__version__ = "0.0.6"
+__version__ = "0.0.7"
 
 
 class InvalidKindError(Exception):
