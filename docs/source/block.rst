@@ -17,9 +17,9 @@ Properties
 **blockType**: :doc:`blocktype`
   The type of block this **BlockItem** represents.
 
-**titles**: [:doc:`blockitem`]
-  An array of title (non-passage) items.  For question item types,
-  the first entry in this array points at the question number.
+**questionNumber**: :doc:`key` *optional*
+  The UID of a :doc:`/textitem` that contains the question question
+  number related to this question.  (Will be null for all non-question items).
 
 **items**: [:doc:`blockitem`]
   An array of the main content of the passage or the question being asked.

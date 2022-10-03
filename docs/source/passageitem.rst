@@ -13,6 +13,10 @@ Properties
 **id**: :doc:`key`
   The unique identifier for the **PassageItem** item.
 
+**titles**: [:doc:`/textitem`]
+  An array of :doc:`/textitem` that describe any titles that come before
+  the main passage content.
+
 **textContent**: *string*
   The entire text that the **PassageItem** contains.
 
