@@ -18,6 +18,5 @@ Declaration
 Properties
 ----------------
 
-**id**: :doc:`Key`
+**id**: :doc:`key`
   The unique identifier for the **GroupItem** item.
-
