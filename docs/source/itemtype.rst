@@ -11,7 +11,7 @@ An *Int* typed enum that representes the different item types.
 Enum Values
 ===========
 
-| **text**: *0*
+**text**: *0*
   Represents a :doc:`textitem`
 
 **equation**: *1*

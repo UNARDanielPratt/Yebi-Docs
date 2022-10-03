@@ -11,7 +11,7 @@ An *Int* typed enum that representes the different section types.
 Enum Values
 ===========
 
-| **context**: *0*
+**context**: *0*
   A block item that references an item that is of the **Context** type.
   This type is most likely a :doc:`/passageitem`.
 

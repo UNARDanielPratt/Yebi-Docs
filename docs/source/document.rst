@@ -7,13 +7,6 @@ Summary
 
 This structure represents a converted document.
 
-Declaration
------------
-
-.. code-block:: swift
-
-   struct Document
-
 Properties
 ----------------
 

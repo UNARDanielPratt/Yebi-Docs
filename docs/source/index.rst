@@ -14,6 +14,10 @@ Firestore Structure:
    groupitem
    block
    blockitem
+   passageitem
+   contextitem
+   textitem
+   equationitem
 
 Enums:
 ------
@@ -21,3 +25,4 @@ Enums:
    sectiontype
    blocktype
    itemtype
+   textitemtype

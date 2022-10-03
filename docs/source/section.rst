@@ -7,14 +7,6 @@ Summary
 
 Sections represent one of the four different possible SAT Practice sections.
 
-
-Declaration
------------
-
-.. code-block:: swift
-
-   struct Summary
-
 Properties
 ----------------
 

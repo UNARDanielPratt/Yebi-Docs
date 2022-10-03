@@ -7,13 +7,6 @@ Summary
 
 A **ULSpan** keeps track of the start and end indexes of an item.
 
-Declaration
------------
-
-.. code-block:: swift
-
-   struct ULSpan
-
 Properties
 ----------------
 

@@ -7,13 +7,6 @@ Summary
 
 A **PassageItem** represents a multiline block of text.
 
-Declaration
------------
-
-.. code-block:: swift
-
-   struct PassageItem
-
 Properties
 ----------------
 
