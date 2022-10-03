@@ -1,15 +1,11 @@
 Document
 ========
 
-.. _document_summary:
-
 =======
 Summary
 =======
 
 This structure represents a converted document.
-
-.. _document_declaration:
 
 Declaration
 -----------

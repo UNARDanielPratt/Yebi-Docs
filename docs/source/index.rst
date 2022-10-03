@@ -12,6 +12,8 @@ Firestore Structure:
 
    document
    section
+   groupItem
+   blockItem
 
 Enums:
 ------
