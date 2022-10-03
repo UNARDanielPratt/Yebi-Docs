@@ -26,7 +26,7 @@ The unique identifier for this document.
 
   Values range from 0.0 to 1.0.  A value of -1 means it has failed.
 
-**createdDate**: `Link TimeStamp <https://firebase.google.com/docs/reference/unity/struct/firebase/firestore/timestamp>`
+**createdDate**: `TimeStamp <https://firebase.google.com/docs/reference/unity/struct/firebase/firestore/timestamp>`_
   This is the date the document was created on, it is stored as a
   Firestore TimeStamp.
 
