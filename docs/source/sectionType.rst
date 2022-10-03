@@ -1,8 +1,6 @@
 SectionType
 ===========
 
-.. _sectionType_summary:
-
 =======
 Summary
 =======
@@ -14,7 +12,8 @@ Enum Values
 ===========
 
 | **none**: *0*
-  No section type is detected.  These will be ignored by the frontend completely.
+  No section type is detected.  These will be ignored
+  by the frontend completely.
 
 **reading**: *1*
   Reading section.
