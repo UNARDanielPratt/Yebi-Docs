@@ -18,7 +18,7 @@ Properties
   :doc:`/textitem` and :doc:`/equationitem` values that come
   before the main *textContent*.
 
-**textContent**: *string*
+**textContent**: *String*
   The entire text that the **PassageItem** contains.
 
 **lines**: [:doc:`ulspan`]
