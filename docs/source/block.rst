@@ -24,7 +24,7 @@ Properties
 **items**: [:doc:`/blockitem`]
   An array of the main content of the passage or the question being asked.
 
-**options**: [:doc:`/blockitem`]
+**options**: [:doc:`/optionitem`]
   An array of available options associated with a question.
   This array will be empty for all non-question type blocks.
 
