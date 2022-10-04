@@ -1,5 +1,5 @@
 BlockItem
-=======
+=========
 
 =======
 Summary
@@ -18,8 +18,8 @@ Declaration
 Properties
 ----------------
 
-**itemType**: :doc:`itemtype`
+**itemType**: :doc:`/itemtype`
 The type of item that this *BlockItem* is pointing to.
 
-**itemId**: :doc:`key`
+**itemId**: :doc:`/key`
   The UID of the item being pointed at.

@@ -21,10 +21,10 @@ Properties
   The UID of a :doc:`/textitem` that contains the question question
   number related to this question.  (Will be null for all non-question items).
 
-**items**: [:doc:`blockitem`]
+**items**: [:doc:`/blockitem`]
   An array of the main content of the passage or the question being asked.
 
-**options**: [:doc:`blockitem`]
+**options**: [:doc:`/blockitem`]
   An array of available options associated with a question.
   This array will be empty for all non-question type blocks.
 
