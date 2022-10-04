@@ -19,7 +19,7 @@ Properties
 ----------------
 
 **itemType**: :doc:`/itemtype`
-The type of item that this *BlockItem* is pointing to.
+  The type of item that this *BlockItem* is pointing to.
 
 **itemId**: :doc:`/key`
   The UID of the item being pointed at.

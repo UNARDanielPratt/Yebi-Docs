@@ -14,6 +14,7 @@ Firestore Structure:
    groupitem
    block
    blockitem
+   optionitem
    passageitem
    contextitem
    textitem
