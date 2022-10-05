@@ -26,5 +26,5 @@ Properties
 **id**: *String*
   The unique identifier for the **GroupItem** item.
 
-**blockOrder**: Array<:doc:`/blockitem`>
+**blockOrder**: [:doc:`/key`]
   An array of :doc:`key` values that track the order of :doc:`blockitem`
