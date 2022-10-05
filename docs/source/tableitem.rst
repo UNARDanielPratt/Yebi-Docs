@@ -24,11 +24,11 @@ Properties
 **description**: *string*
   A human readable description of the graphic.
 
-**equationItems**: [:doc:`/equationitem`]
-  Array of all the :doc:`/equationitem` objects used to render table.
+**equationItems**: [*String* : :doc:`/equationitem`]
+  Dictonary of all the :doc:`/equationitem` objects used to render table.
 
-**textItems**: [:doc:`/textitem`]
-  Array of all the :doc:`/textitem` objects used to render table.
+**textItems**: [*String* : :doc:`/textitem`]
+  Dictonary of all the :doc:`/textitem` objects used to render table.
 
 **table**: [:doc:`/ultabledata`]
   The data values that are used to draw the table.
