@@ -18,3 +18,8 @@ Properties
 
 **end**: *Int*
   The ending index of the span.
+
+**inParagraph**: :doc:`/key` *optional*
+  The UID of the paragraph (if any) that this span is found inside of.
+  This is optional, and should never be included if the span is
+  describing the paragraph itself.

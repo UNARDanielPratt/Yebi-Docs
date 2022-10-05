@@ -20,6 +20,7 @@ Firestore Structure:
    textitem
    equationitem
    tableitem
+   ulspan
 
 Enums:
 ------
