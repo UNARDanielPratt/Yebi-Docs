@@ -26,8 +26,8 @@ Enum Values
 **shapeItem**: *4*
   Represents a :doc:`shapeitem`
 
-**cartesianItem**: *4*
+**cartesianItem**: *5*
   Represents a :doc:`cartesianitem`
 
-**tableItem**: *4*
+**tableItem**: *6*
   Represents a :doc:`tableitem`
