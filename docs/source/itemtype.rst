@@ -31,3 +31,6 @@ Enum Values
 
 **tableItem**: *6*
   Represents a :doc:`tableitem`
+
+  **barGraphItem**: *7*
+    Represents a bar graph.  Not currently supported.
