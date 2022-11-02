@@ -12,7 +12,7 @@ Properties
 ----------------
 
 **id**: :doc:`key`
-  The unique identifier for the **GroupItem** item.
+  The unique identifier for the **Block** item.
 
 **blockType**: :doc:`blocktype`
   The type of block this **BlockItem** represents.
