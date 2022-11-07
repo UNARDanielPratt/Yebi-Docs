@@ -31,7 +31,3 @@ Properties
 
 **yAxisLabel**: :doc:`/textitem`  **Optional**
   The label that describes the y axis.
-
-**textItems**: Array<:doc:`textitem`>
-  An array that contains all of the
-  :doc:`textitem` that are used in the bar chart.
