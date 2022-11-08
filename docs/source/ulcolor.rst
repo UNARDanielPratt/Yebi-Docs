@@ -11,14 +11,14 @@ Note: Values should be between 0 and 1.
 Properties
 -----------
 
-**alpha**: *Float*
+**a**: *Float*
  The color's alpha (opacity) value.
 
-**red**: *Float*
+**r**: *Float*
   The color's red component value.
 
-**green**: *Float*
+**g**: *Float*
   The color's green component value.
 
-**blue**: *Float*
+**b**: *Float*
   The color's blue component value.
