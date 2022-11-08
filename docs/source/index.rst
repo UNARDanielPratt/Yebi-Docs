@@ -19,10 +19,16 @@ Firestore Structure:
    contextitem
    textitem
    equationitem
+   cartesianitem
    tableitem
    barchartItem
    bardata
    ulspan
+   ulsvglineitem
+   ulsvglinepoints
+   ulpoint
+   ulcolor
+   uldatapoint
 
 Enums:
 ------
@@ -31,3 +37,6 @@ Enums:
    blocktype
    itemtype
    textitemtype
+   uldashpattern
+   ulsvglinetype
+   shapetype
