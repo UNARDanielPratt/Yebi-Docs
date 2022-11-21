@@ -27,6 +27,24 @@ Properties
 **description**: *String*
   A human understandable description of this figure.
 
+**topTitle**: :doc:`key` **Optional**
+  The unique id for the :doc:`/textitem` that describes the
+  title displayed above the graph.
+
+**xTitle**: :doc:`key` **Optional**
+  The unique id for the :doc:`/textitem` that describes the
+  title displayed below the graph along the x-axis.
+
+**yTitle**: :doc:`key` **Optional**
+  The unique id for the :doc:`/textitem` that describes the
+  title displayed to the left of the graph along the y-axis.
+
+**textItems**: *Dictionary* <:doc:`key` : :doc:`/textitem`>
+  A dictionary that contains the titles and labels associated
+  with this graph.  The dictionary key is the UID of the
+  :doc:`/textitem`, and the value is the :doc:`/textitem`
+  iteself.
+
 **xOffset**: *Float*
   The offset (0-value) location for the x-axis.
 
@@ -39,8 +57,22 @@ Properties
 **yScale**: *Float*
   The scaling used to calculate values for the y-axis.
 
-**numXGridLines**: *Int* *Optional*
-  The number of grid lines to try to draw along the x-axis.
+**xLabels**: Array<:doc:`key`>
+  The values associated with the various ticks along
+  the x-axis.  This array MUST be the same length as
+  the *xTicks* array.
 
-**numYGridLines**: *Int* *Optional*
-  The number of grid lines to try to draw along the y-axis.
+**xTicks**: Array<*Float*>
+  An array of floats that describe placement of vertical
+  grid lines along the x-axis.  The values are normalized
+  x-coordinates, so the range should be from 0.0-1.0.
+
+**yLabels**: Array<:doc:`key`>
+  The values associated with the various ticks along
+  the y-axis.  This array MUST be the same length as
+  the *yTicks* array.
+
+**yTicks**: Array<*Float*>
+  An array of floats that describe placement of horizontal
+  grid lines along the y-axis.  The values are normalized
+  y-coordinates, so the range should be from 0.0-1.0.
